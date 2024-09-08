@@ -15,4 +15,4 @@
 //   return arguments[0].reverse();
 // }
 
-swapValues = args => args.reverse()
+swapValues = args => args.reverse();
